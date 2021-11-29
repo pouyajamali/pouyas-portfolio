@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/pouyas-portfolio/static/css/main.461402b2.chunk.css",
+    "main.js": "/pouyas-portfolio/static/js/main.65f1b8c0.chunk.js",
+    "main.js.map": "/pouyas-portfolio/static/js/main.65f1b8c0.chunk.js.map",
+    "runtime-main.js": "/pouyas-portfolio/static/js/runtime-main.bdb30656.js",
+    "runtime-main.js.map": "/pouyas-portfolio/static/js/runtime-main.bdb30656.js.map",
+    "static/js/2.ff6ba508.chunk.js": "/pouyas-portfolio/static/js/2.ff6ba508.chunk.js",
+    "static/js/2.ff6ba508.chunk.js.map": "/pouyas-portfolio/static/js/2.ff6ba508.chunk.js.map",
+    "static/js/3.ebe7f473.chunk.js": "/pouyas-portfolio/static/js/3.ebe7f473.chunk.js",
+    "static/js/3.ebe7f473.chunk.js.map": "/pouyas-portfolio/static/js/3.ebe7f473.chunk.js.map",
+    "index.html": "/pouyas-portfolio/index.html",
+    "static/css/main.461402b2.chunk.css.map": "/pouyas-portfolio/static/css/main.461402b2.chunk.css.map",
+    "static/js/2.ff6ba508.chunk.js.LICENSE.txt": "/pouyas-portfolio/static/js/2.ff6ba508.chunk.js.LICENSE.txt",
+    "static/media/Resume.cb5b4244.pdf": "/pouyas-portfolio/static/media/Resume.cb5b4244.pdf",
+    "static/media/centre_mobile_project.1ae209c2.png": "/pouyas-portfolio/static/media/centre_mobile_project.1ae209c2.png",
+    "static/media/chip8.13a6d9dc.png": "/pouyas-portfolio/static/media/chip8.13a6d9dc.png",
+    "static/media/github.0b148295.png": "/pouyas-portfolio/static/media/github.0b148295.png",
+    "static/media/me.2425c83b.png": "/pouyas-portfolio/static/media/me.2425c83b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdb30656.js",
+    "static/js/2.ff6ba508.chunk.js",
+    "static/css/main.461402b2.chunk.css",
+    "static/js/main.65f1b8c0.chunk.js"
+  ]
+}
