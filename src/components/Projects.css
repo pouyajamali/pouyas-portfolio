@@ -1,0 +1,42 @@
+.projects {
+    width: 100vw;
+    /* height: 80vh; */
+    padding-bottom: 8vh;
+    padding-top: 4vh;
+}
+
+.projects-title {
+    text-align: center;
+    font-size: 4vw;
+}
+
+.project {
+    margin-top: 40px;
+    margin-left: 10vw;
+    width: 80vw;
+    display: flex;
+    border: 1px solid #dcd9d9;
+    /* border: 1px solid black; */
+    box-shadow: 5px 5px 10px #aaaaaa;
+}
+
+.project-image {
+    border: 1px solid #dcd9d9;
+    height: 25vh;
+    width: 20vw;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.project-text {
+
+    font: 0.8em sans-serif;
+    width: 40vw;
+    margin-left: 10vw;
+
+}
+
+.lines {
+    margin-bottom: 5px;
+}

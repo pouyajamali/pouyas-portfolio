@@ -1,0 +1,59 @@
+.aboutMe {
+    width: 100vw;
+    /* height: 80vh; */
+    padding-bottom: 6vh;
+    padding-top: 4vh;
+}
+
+.aboutMe-title {
+    text-align: center;
+    font-size: 4vw;
+}
+
+.aboutMe-content {
+    display: flex;
+}
+
+.get-know {
+    margin-left: 20vw;
+    width: 30vw;
+}
+
+.skills {
+    margin-left: 10vw;
+    margin-right: 20vw;
+    width: 30vw;
+}
+
+.skills-button {
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+    padding: 5px 5px;
+    border-radius:30px;
+}
+
+.education {
+
+    margin-left: 20vw;
+}
+
+.sfu {
+    display: flex;
+}
+.sfu-image {
+    width: 50px;
+    height: 50px;
+    border-radius:30px;
+}
+
+.sfu-info {
+    margin-left: 10px;
+}
+
+.line1-edu {
+    font-weight: bold;
+}
+
+.line2-edu {
+    margin-top: 8px;
+}
