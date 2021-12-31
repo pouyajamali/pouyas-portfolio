@@ -30,20 +30,6 @@ class Interests extends React.Component {
             <div>
               <li>Music: Playing Guitar and Harmonica</li>
               <li>Sports: Wrestling and Playing soccer for more than 15 years</li>
-              {/* <button className="skills-button">C/C++</button>
-              <button className="skills-button">Java</button>
-              <button className="skills-button">Python</button>
-              <button className="skills-button">R</button>
-              <button className="skills-button">JavaScript</button>
-              <button className="skills-button">React</button>
-              <button className="skills-button">HTML</button>
-              <button className="skills-button">CSS</button>
-              <button className="skills-button">Node.js</button>
-              <button className="skills-button">Android</button>
-              <button className="skills-button">SQL</button>
-              <button className="skills-button">Jira</button>
-              <button className="skills-button">Network Protocols</button>
-              <button className="skills-button">Git/GitHub/Bitbucket</button> */}
             </div>
           </div>
         </div>
