@@ -6,6 +6,7 @@ import Intro from './components/Intro';
 import AboutMe from './components/AboutMe';
 import WorkExperiences from './components/WorkExperiences';
 import Projects from './components/Projects'
+import Interests from './components/Interests';
 import Footer from "./components/Footer"
 
 ReactDOM.render(
@@ -15,6 +16,7 @@ ReactDOM.render(
     <AboutMe />
     <WorkExperiences />
     <Projects />
+    <Interests />
     <Footer />
   </React.StrictMode>,
   document.getElementById('root')

@@ -18,11 +18,13 @@ class Intro extends React.Component {
     }
 
     return (
+      
       <div id="home" className="intro route bg-image background">
         <div id="navbar" className="navbar">
           <button className="link-button"><AnchorLink className="link" href='#aboutMe'>About Me</AnchorLink></button>
           <button className="link-button"><AnchorLink className="link" href='#work-experiences'>Work Experiences</AnchorLink></button>
           <button className="link-button"><AnchorLink className="link" href='#projects'>Projects</AnchorLink></button>
+          <button className="link-button"><AnchorLink className="link" href='#extras'>Extras</AnchorLink></button>
         </div>
         
         <div id="stars" />

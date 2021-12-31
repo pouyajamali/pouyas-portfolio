@@ -1,6 +1,9 @@
 import React from "react";
 import chip8 from "../images/chip8.png";
+import CBS from "../images/CBS.png"
+import fmg from "../images/find_my_photographer.png"
 import centreMobile from "../images/centre_mobile_project.png"
+import consumableTracker from "../images/ConsumerTracker.jpg"
 import "./Projects.css";
 // import Typed from "react-typed";
 
@@ -11,6 +14,43 @@ class Projects extends React.Component {
         <div id="projects-container">
           <h1 className="projects-title">Projects</h1>
         </div>
+
+        <div className="project">
+                <img src={consumableTracker} className="project-image" />
+                <div className="project-text">
+                    <h3>Consumable Inventory Tracker</h3>
+                    <p>During this project a consumable tracker software was implemented to track the expiry dates of food and drink items by utilizing object-oriented design in Java.</p>
+                    <li className="lines">Designed an enterprise level software with the MVC model in an agile environment</li>
+                    <li className="lines">Developed a front-end for the project by utilizing Java Swing</li>
+                    <li className="lines">Implemented a RESTful server side with Java Network and Spring Framework</li>
+                    <li className="lines">Created a database for the server side by storing data in a JSON file with GSON library</li>
+                    <li className="lines">Integrated the front-end and the back-end to deploy a complete solution</li>
+                </div>
+            </div>
+
+        <div className="project">
+                <img src={fmg} className="project-image" />
+                <div className="project-text">
+                    <h3>Find My Photographer</h3>
+                    <p>Find My Photographer is a CRUD web platform that connects event organizers with freelance photographers.</p>
+                    <li className="lines">Developed the front-end of the project by utilizing React framework</li>
+                    <li className="lines">Created photographer portfolio browser which allowed clients to pick and compare different photographers</li>
+                    <li className="lines">Implemented the booking feature which allowed clients to negotiate the event prices</li>
+                    <li className="lines">Worked closely with the back-end team for front-end design and integration</li>
+                </div>
+            </div>
+
+        <div className="project">
+                <img src={CBS} className="project-image" />
+                <div className="project-text">
+                    <h3>Implementing and Improving Conflict-Based Search (CBS) Algorithm</h3>
+                    <p>This project was focused on solving the multi agent path finding (MAPF) problem by the implementation of CBS algorithm and improving it by implementing the ICBS and CBSH algorithms with python.</p>
+                    <li className="lines">Developed the CBS algorithm which found the optimal solution in 100% of the MAPF Puzzles</li>
+                    <li className="lines">Optimized the CBS algorithm execution time and memory efficiency through reducing the number of generated nodes by around 92% with the implementation of ICBS</li>
+                    <li className="lines">Improved the ICBS algorithm execution time and memory efficiency through reducing the number of generated nodes by around 16% with the implementation of CBSH</li>
+                </div>
+            </div>
+
 
         <div className="projects-content">
             <div className="project">
@@ -35,7 +75,6 @@ class Projects extends React.Component {
                     <li className="lines">Wrote a variety of SQL queries to create a relational database to store customer information in a well-structured manner</li>
                 </div>
             </div>
-
 
         </div>
 
